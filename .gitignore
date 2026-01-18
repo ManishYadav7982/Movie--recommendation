@@ -13,3 +13,10 @@ build/
 
 # Local data
 .DS_Store
+
+
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
