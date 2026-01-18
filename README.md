@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎬 MovieFinder - AI-Powered Discovery
 MovieFinder is a high-performance, full-stack movie recommendation platform that uses Machine Learning to provide personalized cinematic suggestions. Designed with a premium "Glassmorphism" aesthetic, it offers a seamless experience for searching, exploring metadata, and watching trailers.
 
@@ -66,3 +67,6 @@ Client: cd client && npm install && npm run dev
 
 👨‍💻 Author
 Manish Yadav AI Full Stack Developer
+=======
+# Movie-Recommendation
+>>>>>>> db1ece3da73f37499a6ed5d94fb492afc51f22bf
