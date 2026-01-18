@@ -20,3 +20,18 @@ build/
 *.h5
 *.pt
 *.onnx
+# Python / ML
+.venv/
+__pycache__/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# Env files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
