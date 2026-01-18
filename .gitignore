@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+.env.local
+
+# Build folders
+dist/
+build/
+
+# Local data
+.DS_Store
